@@ -1,0 +1,165 @@
+TUTORIAL WALLS
+-
+you need to get the balloon out from the top right corner
+-
+balloon 123.000000 300.000000 -1 -1 -1
+brickWall 558.000000 80.000000 5 2 0
+brickWall 16.000000 81.000000 5 2 0
+brickWall 16.000000 196.000000 5 2 0
+brickWall 17.000000 303.000000 4 2 0
+brickWall 82.000000 353.000000 5 0 0
+brickWall 199.000000 353.000000 5 0 0
+brickWall 314.000000 351.000000 5 0 0
+brickWall 428.000000 350.000000 5 0 0
+brickWall 559.000000 186.000000 4 2 0
+brickWall 468.000000 15.000000 1 0 0
+brickWall 330.000000 14.000000 2 0 0
+brickWall 55.000000 15.000000 4 0 0
+brickWall 203.000000 17.000000 5 0 0
+brickWall 558.000000 289.000000 4 2 0
+brickWall 528.000000 350.000000 3 0 0
+baseBall 285.000000 73.000000 -1 -1 -1
+baseBall 116.000000 136.000000 -1 -1 -1
+basketBall 216.000000 107.000000 -1 -1 -1
+basketBall 375.000000 45.999985 -1 -1 -1
+brickWall 65.000000 65.000015 3 3 0
+brickWall 62.000000 308.000000 3 1 0
+brickWall 515.000000 302.000000 3 3 0
+brickWall 525.000000 99.999992 1 0 0
+brickWall 518.000000 138.000000 1 1 0
+brickWall 523.000000 187.000000 1 3 0
+brickWall 522.000000 239.000000 1 1 0
+brickWall 457.000000 315.000000 1 1 0
+brickWall 411.000000 313.000000 1 3 0
+brickWall 364.000000 316.000000 1 1 0
+brickWall 267.000000 316.000000 1 1 0
+brickWall 221.000000 315.000000 1 3 0
+brickWall 173.000000 317.000000 1 1 0
+brickWall 318.000000 314.000000 1 3 0
+-
+brickWall 5
+-
+0 38 12 530 8
+-
+-
+
+TUTORIAL ENGINES
+-
+you need to get the balls in the boxes (tip: use the engines)
+-
+baseBall 64.000000 213.000000 -1 -1 -1
+baseBall 286.000000 218.000000 -1 -1 -1
+basketBall 413.000000 24.000000 -1 -1 -1
+brickWall 73.000000 157.000000 1 0 -1
+mouseEngine 73.000000 133.000000 -1 -1 -1
+brickWall 40.000000 109.999992 5 2 -1
+brickWall 73.000000 62.000000 1 0 -1
+brickWall 106.000000 109.000000 5 2 -1
+conveyor 71.000000 236.999985 -1 -1 -1
+brickWall 94.000000 269.000000 1 2 -1
+brickWall 126.000000 302.000000 3 0 -1
+brickWall 155.000000 253.000015 3 2 -1
+brickWall 289.000000 155.000000 1 0 -1
+brickWall 289.000000 59.000000 1 0 -1
+conveyor 294.000000 239.000000 -1 -1 -1
+brickWall 317.000000 271.000000 1 2 -1
+brickWall 349.000000 303.000000 3 0 -1
+brickWall 378.000000 253.999985 3 2 -1
+brickWall 322.000000 108.000008 5 2 -1
+brickWall 257.000000 108.000008 5 2 -1
+basketBall 74.000000 92.000000 -1 -1 -1
+mouseEngine 290.000000 131.000000 -1 -1 -1
+mouseEngine 342.000000 200.000000 -1 -1 -1
+brickWall 495.000000 128.000000 2 0 -1
+brickWall 455.000000 111.000000 1 2 -1
+brickWall 495.000000 36.000000 2 0 -1
+brickWall 536.000000 80.000000 5 2 -1
+-
+belt 3
+conveyor 1
+basketBall 1
+-
+0 45 15 100 275
+1 45 15 325 275
+2 35 20 500 120
+-
+-
+
+TUTORIAL TRAMPOLINE
+-
+get the ball to in between the pipes
+-
+baseBall 89.000000 250.000015 -1 -1 -1
+brickWall 64.000000 269.000000 1 0 -1
+trampoline 108.000000 320.000000 -1 -1 -1
+trampoline 212.000000 283.000000 -1 -1 -1
+trampoline 334.000000 242.000000 -1 -1 -1
+trampoline 458.000000 196.000000 -1 -1 -1
+pipeWall 515.000000 251.000000 3 2 -1
+pipeWall 552.000000 251.000000 3 2 -1
+pipeWall 535.000000 299.000000 1 0 -1
+-
+trampoline 3
+-
+0 25 15 525 280
+-
+-
+
+TUTORIAL BALLOON
+-
+get the balloon to explode!
+-
+balloon 296.000000 326.000000 -1 -1 -1
+mouseEngine 72.000000 161.000000 -1 -1 -1
+basketBall 72.000000 106.000000 -1 -1 -1
+scissors 393.000000 121.999992 -1 -1 -1
+-
+belt 1
+basketBall 1
+brickWall 1
+conveyor 1
+-
+-
+0
+-
+
+UP THE HILL
+-
+make the mice sweat!
+-
+mouseEngine 479.000000 211.000000 -1 -1 -1
+mouseEngine 42.000000 310.000000 -1 -1 -1
+baseBall 69.000000 249.000000 -1 -1 -1
+fancyWall 172.000000 305.000000 1 3 -1
+fancyWall 372.000000 246.000000 5 3 -1
+-
+conveyor 2
+mouseEngine 1
+belt 2
+-
+-
+0
+-
+
+ITZHAK'S NIGHTMARE
+-
+get both balloons to explode, this one is kinda hard, good luck!
+-
+balloon 481.000000 335.000000 -1 -1 -1
+balloon 480.000000 288.000000 -1 -1 -1
+mouseEngine 61.000000 152.000000 -1 -1 -1
+baseBall 192.000000 177.000000 -1 -1 -1
+conveyor 209.000000 194.000000 -1 -1 -1
+mouseEngine 99.000000 184.000000 -1 -1 -1
+scissors 535.000000 101.000000 -1 -1 -1
+scissors 535.000000 50.000000 -1 -1 -1
+-
+conveyor 1
+basketBall 1
+belt 2
+baseBall 1
+-
+-
+0
+1
+-
